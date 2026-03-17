@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Pretrained weights (auto-downloaded by Ultralytics)
+yolo11n-seg.pt
+
+# Training outputs
+runs/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
